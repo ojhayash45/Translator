@@ -35,8 +35,6 @@ The application allows users to input English text and receive Hindi translation
 
 ## ⚙️ Installation & Local Setup
 
-### 1️⃣ Clone the Repository
-
 ```bash
 git clone https://github.com/YOUR_USERNAME/English-Hindi-Translator.git
 cd English-Hindi-Translator
@@ -45,3 +43,35 @@ venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 python app.py
 http://127.0.0.1:7860
+📂 Project Structure
+English-Hindi-Translator/
+│
+├── app.py
+├── requirements.txt
+└── README.md
+
+🎯 Key Features
+
+Real-time English to Hindi translation
+
+Transformer-based seq2seq model
+
+Clean interactive UI
+
+Cloud deployment via Hugging Face Spaces
+
+Lightweight PyTorch implementation
+
+📌 Model Details
+
+Model: Helsinki-NLP/opus-mt-en-hi
+
+Architecture: MarianMT (Encoder-Decoder)
+
+Framework: PyTorch
+
+Task: Neural Machine Translation
+
+🏆 Deployment
+
+Deployed on Hugging Face Spaces with automatic model loading and real-time inference.
