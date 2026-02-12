@@ -7,7 +7,7 @@ The application translates English text into Hindi in real time using the Marian
 
 ## 🚀 Live Demo
 
-🔗 https://huggingface.co/spaces/ojhayash45/Eng_hi_translator
+🔗 https://ojhayash45-eng-hi-translator.hf.space/?__theme=system&deep_link=dOemzSUZehE
 
 ---
 
@@ -115,4 +115,4 @@ Developed and deployed a production-ready English-to-Hindi Neural Machine Transl
 ## 📬 Author
 
 Yash Vardhan Ojha  
-B.Tech Computer Science  
+Information Technology
